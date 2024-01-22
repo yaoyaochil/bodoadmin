@@ -1,0 +1,20 @@
+[github.com/wangrui19970405/wu-shi-admin/server]2023/12/17 - 17:39:42.231	[34minfo[0m	/Users/wangrui/Dev/iqadmin/server/initialize/gorm.go:58	register table success
+[github.com/wangrui19970405/wu-shi-admin/server]2023/12/17 - 17:39:42.262	[34minfo[0m	/Users/wangrui/Dev/iqadmin/server/initialize/router.go:38	register swagger handler
+[github.com/wangrui19970405/wu-shi-admin/server]2023/12/17 - 17:39:43.528	[34minfo[0m	/Users/wangrui/Dev/iqadmin/server/initialize/router.go:77	xhs_router register success
+[github.com/wangrui19970405/wu-shi-admin/server]2023/12/17 - 17:39:43.528	[34minfo[0m	/Users/wangrui/Dev/iqadmin/server/core/server.go:36	server run success on 	{"address": ":5100"}
+[github.com/wangrui19970405/wu-shi-admin/server]2023/12/17 - 17:40:16.175	[34minfo[0m	/Users/wangrui/Dev/iqadmin/server/initialize/gorm.go:58	register table success
+[github.com/wangrui19970405/wu-shi-admin/server]2023/12/17 - 17:40:16.178	[34minfo[0m	/Users/wangrui/Dev/iqadmin/server/initialize/router.go:38	register swagger handler
+[github.com/wangrui19970405/wu-shi-admin/server]2023/12/17 - 17:40:17.160	[34minfo[0m	/Users/wangrui/Dev/iqadmin/server/initialize/router.go:77	xhs_router register success
+[github.com/wangrui19970405/wu-shi-admin/server]2023/12/17 - 17:40:17.161	[34minfo[0m	/Users/wangrui/Dev/iqadmin/server/core/server.go:36	server run success on 	{"address": ":5100"}
+[github.com/wangrui19970405/wu-shi-admin/server]2023/12/17 - 17:40:37.488	[34minfo[0m	/Users/wangrui/Dev/iqadmin/server/initialize/gorm.go:58	register table success
+[github.com/wangrui19970405/wu-shi-admin/server]2023/12/17 - 17:40:37.490	[34minfo[0m	/Users/wangrui/Dev/iqadmin/server/initialize/router.go:38	register swagger handler
+[github.com/wangrui19970405/wu-shi-admin/server]2023/12/17 - 17:40:37.708	[34minfo[0m	/Users/wangrui/Dev/iqadmin/server/initialize/router.go:77	xhs_router register success
+[github.com/wangrui19970405/wu-shi-admin/server]2023/12/17 - 17:40:37.709	[34minfo[0m	/Users/wangrui/Dev/iqadmin/server/core/server.go:36	server run success on 	{"address": ":5100"}
+[github.com/wangrui19970405/wu-shi-admin/server]2023/12/17 - 23:10:55.639	[34minfo[0m	/Users/wangrui/Dev/iqadmin/server/initialize/gorm.go:58	register table success
+[github.com/wangrui19970405/wu-shi-admin/server]2023/12/17 - 23:10:55.644	[34minfo[0m	/Users/wangrui/Dev/iqadmin/server/initialize/router.go:38	register swagger handler
+[github.com/wangrui19970405/wu-shi-admin/server]2023/12/17 - 23:10:57.096	[34minfo[0m	/Users/wangrui/Dev/iqadmin/server/initialize/router.go:77	xhs_router register success
+[github.com/wangrui19970405/wu-shi-admin/server]2023/12/17 - 23:10:57.097	[34minfo[0m	/Users/wangrui/Dev/iqadmin/server/core/server.go:36	server run success on 	{"address": ":5100"}
+[github.com/wangrui19970405/wu-shi-admin/server]2023/12/17 - 23:23:39.202	[34minfo[0m	/Users/wangrui/Dev/iqadmin/server/initialize/gorm.go:58	register table success
+[github.com/wangrui19970405/wu-shi-admin/server]2023/12/17 - 23:23:39.232	[34minfo[0m	/Users/wangrui/Dev/iqadmin/server/initialize/router.go:38	register swagger handler
+[github.com/wangrui19970405/wu-shi-admin/server]2023/12/17 - 23:23:39.488	[34minfo[0m	/Users/wangrui/Dev/iqadmin/server/initialize/router.go:77	xhs_router register success
+[github.com/wangrui19970405/wu-shi-admin/server]2023/12/17 - 23:23:39.488	[34minfo[0m	/Users/wangrui/Dev/iqadmin/server/core/server.go:36	server run success on 	{"address": ":5100"}

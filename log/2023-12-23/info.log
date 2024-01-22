@@ -1,0 +1,4 @@
+[github.com/wangrui19970405/wu-shi-admin/server]2023/12/23 - 18:05:08.345	[34minfo[0m	/Users/wangrui/Dev/iqadmin/server/initialize/gorm.go:58	register table success
+[github.com/wangrui19970405/wu-shi-admin/server]2023/12/23 - 18:05:08.369	[34minfo[0m	/Users/wangrui/Dev/iqadmin/server/initialize/router.go:38	register swagger handler
+[github.com/wangrui19970405/wu-shi-admin/server]2023/12/23 - 18:05:08.628	[34minfo[0m	/Users/wangrui/Dev/iqadmin/server/initialize/router.go:77	xhs_router register success
+[github.com/wangrui19970405/wu-shi-admin/server]2023/12/23 - 18:05:08.628	[34minfo[0m	/Users/wangrui/Dev/iqadmin/server/core/server.go:36	server run success on 	{"address": ":5100"}
